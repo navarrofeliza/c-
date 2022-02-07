@@ -1,0 +1,15 @@
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\Fundamentals.exe
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\Fundamentals.deps.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\Fundamentals.runtimeconfig.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\Fundamentals.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\ref\Fundamentals.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\bin\Debug\net6.0\Fundamentals.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfo.cs
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\ref\Fundamentals.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\Fundamentals\obj\Debug\net6.0\Fundamentals.genruntimeconfig.cache

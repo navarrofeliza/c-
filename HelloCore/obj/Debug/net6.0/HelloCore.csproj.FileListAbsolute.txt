@@ -1,0 +1,15 @@
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\HelloCore.exe
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\HelloCore.deps.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\HelloCore.runtimeconfig.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\HelloCore.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\ref\HelloCore.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\bin\Debug\net6.0\HelloCore.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.csproj.AssemblyReference.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.AssemblyInfoInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.AssemblyInfo.cs
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.csproj.CoreCompileInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\ref\HelloCore.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\HelloCore\obj\Debug\net6.0\HelloCore.genruntimeconfig.cache
